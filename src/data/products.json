@@ -1,0 +1,363 @@
+[
+  {
+    "id": 1,
+    "title": "Apple MacBook Pro 16 M3 Max",
+    "description": "The most advanced Mac laptop ever built for pro workflows. Featuring the M3 Max chip with 16-core CPU and 40-core GPU, Liquid Retina XDR display, up to 22 hours battery life, and 36GB unified memory.",
+    "price": 249900,
+    "discountPercentage": 8.5,
+    "rating": 4.9,
+    "stock": 14,
+    "brand": "Apple",
+    "category": "laptops",
+    "thumbnail": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "ASUS ROG Zephyrus G16 Gaming Laptop",
+    "description": "Ultra-slim OLED gaming laptop powered by Intel Core Ultra 9 processor and NVIDIA GeForce RTX 4080. Features 240Hz ROG Nebula OLED display, CNC aluminum chassis, and advanced vapor chamber cooling.",
+    "price": 189990,
+    "discountPercentage": 12.0,
+    "rating": 4.8,
+    "stock": 22,
+    "brand": "ASUS",
+    "category": "laptops",
+    "thumbnail": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Dell XPS 14 Premium Ultrabook",
+    "description": "Sleek, minimalist laptop with InfinityEdge 3.2K OLED touch display, Intel Core Ultra 7, seamless glass trackpad, capacitive touch function row, and exceptional diamond-cut aluminum finish.",
+    "price": 144990,
+    "discountPercentage": 10.0,
+    "rating": 4.7,
+    "stock": 18,
+    "brand": "Dell",
+    "category": "laptops",
+    "thumbnail": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Lenovo Yoga Slim 7i Carbon",
+    "description": "Featherlight carbon fiber ultrabook weighing under 1kg. Powered by Intel Evo Core Ultra 5, PureSight 2.5K 90Hz display, and rapid charge boost technology.",
+    "price": 79990,
+    "discountPercentage": 15.0,
+    "rating": 4.6,
+    "stock": 30,
+    "brand": "Lenovo",
+    "category": "laptops",
+    "thumbnail": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Samsung Galaxy S24 Ultra 5G (Titanium Gray)",
+    "description": "The pinnacle of smartphone innovation. Built with a titanium frame, Galaxy AI live translation, 200MP pro-grade camera with 100x Space Zoom, built-in S Pen, and Snapdragon 8 Gen 3 for Galaxy.",
+    "price": 129999,
+    "discountPercentage": 7.0,
+    "rating": 4.9,
+    "stock": 45,
+    "brand": "Samsung",
+    "category": "smartphones",
+    "thumbnail": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Apple iPhone 15 Pro Max (256GB Natural Titanium)",
+    "description": "Forged in titanium and featuring the groundbreaking A17 Pro chip, customizable Action button, the most powerful iPhone camera system with 5x optical zoom, and USB-C with USB 3 speeds.",
+    "price": 149900,
+    "discountPercentage": 6.0,
+    "rating": 4.9,
+    "stock": 38,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "OnePlus 12 5G (Flowy Emerald)",
+    "description": "Flagship killer featuring 4th Gen Hasselblad Camera System, 5400mAh battery with 100W SUPERVOOC charging, 2K 120Hz ProXDR display, and Snapdragon 8 Gen 3.",
+    "price": 64999,
+    "discountPercentage": 11.0,
+    "rating": 4.7,
+    "stock": 50,
+    "brand": "OnePlus",
+    "category": "smartphones",
+    "thumbnail": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Google Pixel 8 Pro (Obsidian 128GB)",
+    "description": "The best of Google AI in your pocket. Features Google Tensor G3, Super Actua display, pro photo editing with Magic Editor & Best Take, and 7 years of OS updates.",
+    "price": 89999,
+    "discountPercentage": 14.0,
+    "rating": 4.6,
+    "stock": 25,
+    "brand": "Google",
+    "category": "smartphones",
+    "thumbnail": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Dior Sauvage Eau de Parfum (100ml)",
+    "description": "An authentically radical fragrance created with noble raw materials. Radiates sensual smoky accents of Papua New Guinean vanilla extract and fresh bergamot.",
+    "price": 12490,
+    "discountPercentage": 5.0,
+    "rating": 4.9,
+    "stock": 40,
+    "brand": "Dior",
+    "category": "fragrances",
+    "thumbnail": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Chanel Bleu de Chanel Parfum (100ml)",
+    "description": "An intensely woody aromatic fragrance with an ambery cedar and tonka bean accord. Pure masculine elegance and timeless allure.",
+    "price": 14850,
+    "discountPercentage": 0,
+    "rating": 4.9,
+    "stock": 20,
+    "brand": "Chanel",
+    "category": "fragrances",
+    "thumbnail": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Tom Ford Black Orchid Luxury Eau de Parfum",
+    "description": "A luxurious and sensual fragrance of rich, dark accords and an alluring potion of black orchids and spice. Iconic, decadent, and deeply sophisticated.",
+    "price": 16900,
+    "discountPercentage": 10.0,
+    "rating": 4.8,
+    "stock": 15,
+    "brand": "Tom Ford",
+    "category": "fragrances",
+    "thumbnail": "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Estée Lauder Advanced Night Repair Serum (50ml)",
+    "description": "Deeply hydrating multi-recovery complex serum. Reduces lines, firms skin, evens tone, and boosts radiance with exclusive Chronolux Power Signal Technology.",
+    "price": 8250,
+    "discountPercentage": 15.0,
+    "rating": 4.8,
+    "stock": 60,
+    "brand": "Estée Lauder",
+    "category": "beauty",
+    "thumbnail": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "MAC Matte Lipstick (Ruby Woo Iconic Red)",
+    "description": "The world's most famous vivid matte red lipstick. Creamy rich formula with high color payoff and non-drying matte finish.",
+    "price": 1950,
+    "discountPercentage": 10.0,
+    "rating": 4.9,
+    "stock": 120,
+    "brand": "MAC",
+    "category": "beauty",
+    "thumbnail": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Laneige Lip Sleeping Mask (Berry 20g)",
+    "description": "Enriched with Berry Fruit Complex, Vitamin C, and coconut oil to leave lips hydrated and soft overnight. Cult favorite beauty essential.",
+    "price": 1200,
+    "discountPercentage": 12.0,
+    "rating": 4.7,
+    "stock": 90,
+    "brand": "Laneige",
+    "category": "beauty",
+    "thumbnail": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Rolex Submariner Date (Oystersteel 41mm)",
+    "description": "The benchmark of luxury diving watches. Crafted in Oystersteel with black Cerachrom ceramic bezel, luminescent hour markers, and automatic caliber 3235 movement.",
+    "price": 795000,
+    "discountPercentage": 0,
+    "rating": 5.0,
+    "stock": 3,
+    "brand": "Rolex",
+    "category": "mens-watches",
+    "thumbnail": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Seiko Presage Cocktail Time Automatic Watch",
+    "description": "Elegant dress watch featuring a brilliant sunburst textured dial inspired by the Blue Moon cocktail, exhibition case back, and 41-hour power reserve.",
+    "price": 38500,
+    "discountPercentage": 10.0,
+    "rating": 4.8,
+    "stock": 25,
+    "brand": "Seiko",
+    "category": "mens-watches",
+    "thumbnail": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Fossil Minimalist Chronograph Leather Watch",
+    "description": "Understated modern classic watch with navy sunray dial, brown genuine leather strap, and precise 3-hand quartz movement.",
+    "price": 9495,
+    "discountPercentage": 25.0,
+    "rating": 4.6,
+    "stock": 55,
+    "brand": "Fossil",
+    "category": "mens-watches",
+    "thumbnail": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Ray-Ban Aviator Classic Green Sunglasses",
+    "description": "Originally designed for U.S. aviators in 1937. Timeless gold metal frame with crystal green G-15 polarized lenses providing 100% UV protection.",
+    "price": 8990,
+    "discountPercentage": 15.0,
+    "rating": 4.8,
+    "stock": 70,
+    "brand": "Ray-Ban",
+    "category": "sunglasses",
+    "thumbnail": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Organic Himalayan Forest Raw Honey (500g)",
+    "description": "100% pure, unprocessed multi-floral honey harvested from pristine wild forest blooms in the Himalayas. Rich in antioxidants and natural enzymes.",
+    "price": 649,
+    "discountPercentage": 10.0,
+    "rating": 4.8,
+    "stock": 150,
+    "brand": "Nature Wild",
+    "category": "groceries",
+    "thumbnail": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Blue Tokai Coffee Roasters Specialty Beans (250g)",
+    "description": "Single-estate 100% Arabica artisanal roasted coffee beans with notes of dark chocolate and roasted hazelnut. Freshly roasted in India.",
+    "price": 520,
+    "discountPercentage": 8.0,
+    "rating": 4.9,
+    "stock": 200,
+    "brand": "Blue Tokai",
+    "category": "groceries",
+    "thumbnail": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Mid-Century Modern Velvet Accent Armchair",
+    "description": "Ergonomic lounge chair with rich emerald green velvet upholstery, high-density foam cushioning, and handcrafted solid brass tapered legs.",
+    "price": 22499,
+    "discountPercentage": 20.0,
+    "rating": 4.7,
+    "stock": 18,
+    "brand": "Urban Home",
+    "category": "furniture",
+    "thumbnail": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Nike Air Jordan 1 Retro High OG (Chicago)",
+    "description": "The legendary sneaker that started it all. Premium genuine leather upper in iconic varsity red, black and white colorway with encapsulated Air-Sole cushioning.",
+    "price": 16995,
+    "discountPercentage": 5.0,
+    "rating": 4.9,
+    "stock": 28,
+    "brand": "Nike",
+    "category": "mens-shoes",
+    "thumbnail": "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+    "description": "Industry-leading active noise cancellation with 8 microphones, Auto NC Optimizer, 30-hour battery life, and crystal-clear hands-free calling with 4 beamforming mics.",
+    "price": 28990,
+    "discountPercentage": 15.0,
+    "rating": 4.8,
+    "stock": 42,
+    "brand": "Sony",
+    "category": "smartphones",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Luxury Handcrafted Pure Leather Travel Duffle Bag",
+    "description": "Full-grain genuine vintage tan leather duffle bag with antique brass hardware, reinforced shoe compartment, and padded shoulder strap.",
+    "price": 7499,
+    "discountPercentage": 22.0,
+    "rating": 4.7,
+    "stock": 35,
+    "brand": "Artisan Craft",
+    "category": "womens-bags",
+    "thumbnail": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80"
+    ]
+  }
+]
