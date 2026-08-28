@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShopKart+ Advanced Frontend
 
 React + Vite frontend-only e-commerce UI.
@@ -31,3 +32,6 @@ Because this is frontend-only, authentication, orders and rate limiting are brow
 - Google, Apple and AI Cart sign-in buttons (UI demo; connect real OAuth provider for production)
 - Animated buttons, cards and navigation icons
 - Amazon/Flipkart-style order cancellation flow with cancelled status
+=======
+# frontend
+>>>>>>> 4bb925cff3d1ac740012bd4b1c484d00c7f05f0b
